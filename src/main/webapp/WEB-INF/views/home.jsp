@@ -8,7 +8,8 @@
 <h1>
 	Hello world!  
 </h1>
-	<h2>Master</h2>
+	<h1>Master</h1>
+	<h2>Master2</h2>
 <P>  The time on the server is ${serverTime}. </P>
 	<h2>GIT Test</h2>
 	<ul>
